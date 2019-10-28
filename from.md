@@ -49,15 +49,15 @@
 
 
 
-#####单行文本框 type=text
-#####密码选择框 type=password
-#####单选按钮   type=radio
-#####复选框     type=checkbox
-#####文件选择框 type=file
-#####隐藏域     type=hidden
-#####多行文本框 **textarea标签**
-#####列表选择框 **select标签**
-#####按钮控件   type=submit|reset|button|image  提交按钮、重置按钮、图片按钮和普通按钮
-#####表单分组   fieldset标签可以看作表单的一个子容器，将所包含的内容以边框环绕方式显示 legend标签则是为fieldset边框添加相关的标题
+##### 单行文本框 type=text
+##### 密码选择框 type=password
+##### 单选按钮   type=radio
+##### 复选框     type=checkbox
+##### 文件选择框 type=file
+##### 隐藏域     type=hidden
+##### 多行文本框 **textarea标签**
+##### 列表选择框 **select标签**
+##### 按钮控件   type=submit|reset|button|image  提交按钮、重置按钮、图片按钮和普通按钮
+##### 表单分组   fieldset标签可以看作表单的一个子容器，将所包含的内容以边框环绕方式显示 legend标签则是为fieldset边框添加相关的标题
 
 

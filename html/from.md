@@ -52,6 +52,21 @@
 ##### 单行文本框 type=text
 ##### 密码选择框 type=password
 ##### 单选按钮   type=radio
+
+| 属性                                                         | 描述                                         |
+| ------------------------------------------------------------ | -------------------------------------------- |
+| [accessKey](https://www.w3school.com.cn/jsref/prop_radio_accesskey.asp) | 设置或返回访问单选按钮的快捷键。             |
+| [alt](https://www.w3school.com.cn/jsref/prop_radio_alt.asp)  | 设置或返回在不支持单选按钮时显示的替代文本。 |
+| [checked](https://www.w3school.com.cn/jsref/prop_radio_checked.asp) | 设置或返回单选按钮的状态。                   |
+| [defaultChecked](https://www.w3school.com.cn/jsref/prop_radio_defaultchecked.asp) | 返回单选按钮的默认状态。                     |
+| [disabled](https://www.w3school.com.cn/jsref/prop_radio_disabled.asp) | 设置或返回是否禁用单选按钮。                 |
+| [form](https://www.w3school.com.cn/jsref/prop_radio_form.asp) | 返回一个对包含此单选按钮的表单的引用。       |
+| [id](https://www.w3school.com.cn/jsref/prop_radio_id.asp)    | 设置或返回单选按钮的 id。                    |
+| [name](https://www.w3school.com.cn/jsref/prop_radio_name.asp) | 设置或返回单选按钮的名称。                   |
+| [tabIndex](https://www.w3school.com.cn/jsref/prop_radio_tabindex.asp) | 设置或返回单选按钮的 tab 键控制次序。        |
+| [type](https://www.w3school.com.cn/jsref/prop_radio_type.asp) | 返回单选按钮的表单类型。                     |
+| [value](https://www.w3school.com.cn/jsref/prop_radio_value.asp) | 设置或返回单选按钮的 value 属性的值。        |
+
 ##### 复选框     type=checkbox
 ##### 文件选择框 type=file
 ##### 隐藏域     type=hidden
